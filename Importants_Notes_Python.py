@@ -1,0 +1,8 @@
+a=int(input("Enter the integers values :-"))
+b=float(input("Enter the float values :-"))
+c=complex(input("Enter the comples values :-"))
+d=tuple(input("Enter the tuples values :-"))
+e=list(input("Enter the list values :-"))
+f=dict(input("Enter the dictionary values :-"))
+g=set(input("Enter the set values :-"))
+h=bool(input("Enter the booleans values :-"))
